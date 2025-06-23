@@ -1,0 +1,23 @@
+{
+  "name": "ebay-wallet-automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dilshan404/eBay-Wallet-Automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dilshan404/eBay-Wallet-Automation/issues"
+  },
+  "homepage": "https://github.com/dilshan404/eBay-Wallet-Automation#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.53.1"
+  }
+}

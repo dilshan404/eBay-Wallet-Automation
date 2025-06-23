@@ -1,0 +1,565 @@
+# Page snapshot
+
+```yaml
+- img
+- img
+- img
+- banner:
+  - link "Skip to main content":
+    - /url: "#mainContent"
+  - navigation:
+    - text: Hi!
+    - link "Sign in":
+      - /url: https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&sgfl=gh&ru=https%3A%2F%2Fwww.ebay.com%2Fitm%2F405838590558
+    - text: or
+    - link "register":
+      - /url: https://signup.ebay.com/pa/crte?ru=https%3A%2F%2Fwww.ebay.com%2Fitm%2F405838590558
+    - link "Daily Deals":
+      - /url: https://www.ebay.com/deals
+    - link "Brand Outlet":
+      - /url: https://www.ebay.com/b/Brand-Outlet/bn_7115532402
+    - link "Gift Cards":
+      - /url: https://www.ebay.com/giftcards
+    - link "Help & Contact":
+      - /url: https://www.ebay.com/help/home
+    - button "Ship to"
+    - link "Sell":
+      - /url: https://www.ebay.com/sl/sell
+    - link "Watchlist":
+      - /url: https://www.ebay.com/mye/myebay/watchlist
+    - button "Expand Watch List"
+    - link "My eBay":
+      - /url: https://www.ebay.com/mys/home?source=GBH
+    - button "Expand My eBay"
+    - button "Expand Notifications"
+    - link "Your shopping cart contains 0 items":
+      - /url: https://cart.ebay.com
+    - button "Expand Cart"
+  - link "eBay Home":
+    - /url: https://www.ebay.com
+    - img "eBay Home"
+  - button "Shop by category"
+  - text: Enter your search keyword
+  - combobox "Search for anything"
+  - combobox "Select a category for search":
+    - option "All Categories" [selected]
+    - option "Antiques"
+    - option "Art"
+    - option "Baby"
+    - option "Books"
+    - option "Business & Industrial"
+    - option "Cameras & Photo"
+    - option "Cell Phones & Accessories"
+    - option "Clothing, Shoes & Accessories"
+    - option "Coins & Paper Money"
+    - option "Collectibles"
+    - option "Computers/Tablets & Networking"
+    - option "Consumer Electronics"
+    - option "Crafts"
+    - option "Dolls & Bears"
+    - option "Movies & TV"
+    - option "eBay Motors"
+    - option "Entertainment Memorabilia"
+    - option "Gift Cards & Coupons"
+    - option "Health & Beauty"
+    - option "Home & Garden"
+    - option "Jewelry & Watches"
+    - option "Music"
+    - option "Musical Instruments & Gear"
+    - option "Pet Supplies"
+    - option "Pottery & Glass"
+    - option "Real Estate"
+    - option "Specialty Services"
+    - option "Sporting Goods"
+    - option "Sports Mem, Cards & Fan Shop"
+    - option "Stamps"
+    - option "Tickets & Experiences"
+    - option "Toys & Hobbies"
+    - option "Travel"
+    - option "Video Games & Consoles"
+    - option "Everything Else"
+  - button "Search"
+  - link "Advanced":
+    - /url: https://www.ebay.com/sch/ebayadvsearch
+  - status
+- main:
+  - button "Previous image - Item images thumbnails"
+  - button "Picture 1 of 12":
+    - img "Picture 1 of 12"
+  - button "Picture 2 of 12":
+    - img "Picture 2 of 12"
+  - button "Picture 3 of 12":
+    - img "Picture 3 of 12"
+  - button "Picture 4 of 12":
+    - img "Picture 4 of 12"
+  - button "Picture 5 of 12":
+    - img "Picture 5 of 12"
+  - button "Picture 6 of 12":
+    - img "Picture 6 of 12"
+  - button "Picture 7 of 12":
+    - img "Picture 7 of 12"
+  - button "Picture 8 of 12":
+    - img "Picture 8 of 12"
+  - button "Picture 9 of 12":
+    - img "Picture 9 of 12"
+  - button "Picture 10 of 12":
+    - img "Picture 10 of 12"
+  - button "Picture 11 of 12":
+    - img "Picture 11 of 12"
+  - button "Picture 12 of 12":
+    - img "Picture 12 of 12"
+  - button "Next image - Item images thumbnails" [disabled]
+  - heading "Picture 12 of 12" [level=2]
+  - text: 20 viewed in the last 24 hours
+  - button "Previous image - Item images thumbnails"
+  - button "Opens image gallery dialog RFID Blocking Leather Slim Wallet ID Credit Card Holder Pouch - Picture 12 of 12":
+    - img "Picture 1 of 12"
+    - img "Picture 2 of 12"
+    - img "Picture 3 of 12"
+    - img "Picture 4 of 12"
+    - img "Picture 5 of 12"
+    - img "Picture 6 of 12"
+    - img "Picture 7 of 12"
+    - img "Picture 8 of 12"
+    - img "Picture 9 of 12"
+    - img "Picture 10 of 12"
+    - img "Picture 11 of 12"
+    - img "Picture 12 of 12"
+  - button "Opens image gallery"
+  - button "Add to watchlist"
+  - button "Next image - Item images thumbnails"
+  - button "Share"
+  - heading "Similar items" [level=2]
+  - text: Sponsored
+  - link "See all":
+    - /url: https://www.ebay.com/recs?component=recs-below-hero&item_id=405838590558&algos=HOMESPLICE.SIM.SimplAMLv11WebTrimmedWithMfgPhase2WithCassiniVisualRankerAndBertRecallWithPLXSizeFilterCPCAutoManual&placement_title=i18n.Title_Promoted_Listing_SimilarItems&sourceModuleId=101875&homespliceOverrideConfig=%7Bsplice.cpc-config-dweb.slot-extension-reserve-price.101.2%3D1%2Csize-intent-selector-mfg.waterfall-sequence%3D%5BFASHION_GARAGE%5D%2Csplice.cpc-config-dweb.slot-extension-reserve-price.2.2%3D1%2Csplice.cpc-config-dweb.slot-extension-reserve-price.15.2%3D1%2Csplice.cpc-config-dweb.max-cpc-slots-num%3D4%2Csplice.cpc-config-dweb.slot-extension-reserve-price.210.4%3D3%2Csplice.cpc-config-dweb.slot-extension-reserve-price.210.2%3D1%2Csplice.cpc-config-dweb.slot-extension-reserve-price.71.2%3D1%2Csplice.cpc-config-dweb.slot-extension-reserve-price.71.4%3D3%2Csplice.cpc-config-dweb.cpc-expansion-slot-ids%3D%5B1%2C+2%2C+3%2C+4%5D%2Csplice.cpc-config-dweb.slot-extension-reserve-price.77.2%3D1%2Csplice.cpc-config-dweb.slot-extension-reserve-price.3.2%3D1%2Csplice.cpc-config-dweb.slot-extension-reserve-price.3.4%3D3%2Csplice.cpc-config-dweb.slot-extension-reserve-price.101.4%3D3%2Csplice.cpc-config-dweb.slot-extension-reserve-price.77.4%3D3%2Csplice.cpc-config-dweb.slot-extension-reserve-price.2.4%3D3%2Csplice.cpc-config-dweb.slot-extension-reserve-price.15.4%3D3%2Csplice.cpc-config-dweb.slot-extension-reserve-price.186.2%3D1%2Csplice.cpc-config-dweb.slot-extension-reserve-price.186.4%3D3%2Csplice.cpc-config-dweb.reserve-price-multiplier%3D1%7D&placement_subTitle=i18n.ModuleSubTitle_Myfg
+  - button "Add Genuine Leather Bifold Wallets For Men RFID Blocking Slim (MENS BROWN WALLET) to your watch list"
+  - link "Genuine Leather Bifold Wallets For Men RFID Blocking Slim (MENS BROWN WALLET) New $14.09 previous price US $15.65 10% off Free shipping":
+    - /url: https://www.ebay.com/itm/144934242601?_trkparms=amclksrc%3DITM%26aid%3D1110006%26algo%3DHOMESPLICE.SIM%26ao%3D1%26asc%3D288102%26meid%3D17eb740d09f043429b310f82d4b5ecdf%26pid%3D101875%26rk%3D1%26rkt%3D4%26sd%3D405838590558%26itm%3D144934242601%26pmt%3D1%26noa%3D0%26pg%3D2332490%26algv%3DSimplAMLv11WebTrimmedWithMfgPhase2WithCassiniVisualRankerAndBertRecallWithPLXSizeFilterCPCAutoManual&_trksid=p2332490.c101875.m1851&itmprp=cksum%3A14493424260117eb740d09f043429b310f82d4b5ecdf%7Cenc%3AAQAKAAABQCAxYQCri4R8yBhKUZDgFiN8nr4Zmb2l1rDfrUWqcB3hcJPFX0hOzPuR7K4kUM35Mta9uPOEgW8tm6nkmEsssWme%252FA1HvgfDHVNMEFY%252FskG8k92B0ikUdNMu7YgEgamarrQ%252F35g%252FfiSvWrISC60%252BUP%252FggMNG569XTSld0cyztmfOXTEdHipc4ceBw%252BRNycc9b%252B%252FjFkp1MrdLmmpkC9%252FISIb4yCzoZwEHg8zT0GttOA71ktdF5%252FC2OeOmvxOtYcYY01j1agMrzgURxtb94PWJyrSFbJy4zZEa1m%252FRcagvbQfKbnAqU6I7VmXD4BQpqgApmd5QDxPMkXr8HukfJdLyZUTXrKkwuN9kJE686Uz6YnJd9PiQ3izDWRtSyY6QRSE%252BbUfoHcqvzdXyzddvhqGT%252FddgO4UbRuPgX7jOT1zMQn5T%7Campid%3APL_CLK%7Cclp%3A2332490&itmmeta=01JYDFBZ8FGWJFM85C6QZYXSRA
+    - heading "Genuine Leather Bifold Wallets For Men RFID Blocking Slim (MENS BROWN WALLET)" [level=3]
+    - text: New $14.09 previous price US $15.65 10% off Free shipping
+  - button "Add Slim Carbon Fiber Bifold Wallet – RFID Blocking, Money Clip, Stylish & Secure to your watch list"
+  - link "Slim Carbon Fiber Bifold Wallet – RFID Blocking, Money Clip, Stylish & Secure New $25.59 previous price US $39.99 36% off + US $20.60 shipping":
+    - /url: https://www.ebay.com/itm/405142116639?_trkparms=amclksrc%3DITM%26aid%3D1110006%26algo%3DHOMESPLICE.SIM%26ao%3D1%26asc%3D288102%26meid%3D17eb740d09f043429b310f82d4b5ecdf%26pid%3D101875%26rk%3D2%26rkt%3D4%26sd%3D405838590558%26itm%3D405142116639%26pmt%3D1%26noa%3D0%26pg%3D2332490%26algv%3DSimplAMLv11WebTrimmedWithMfgPhase2WithCassiniVisualRankerAndBertRecallWithPLXSizeFilterCPCAutoManual&_trksid=p2332490.c101875.m1851&itmprp=cksum%3A40514211663917eb740d09f043429b310f82d4b5ecdf%7Cenc%3AAQAKAAABQCAxYQCri4R8yBhKUZDgFiN8nr4Zmb2l1rDfrUWqcB3hcJPFX0hOzPuR7K4kUM35Mta9uPOEgW8tm6nkmEsssWme%252FA1HvgfDHVNMEFY%252FskG8k92B0ikUdNMu7YgEgamarrQ%252F35g%252FfiSvWrISC60%252BUP88jA7V%252Fy2yfZroZdwBYIliC0EnjmAZCTtcWxkLZAWuFA9ZmBsX0yYd%252F3nzQgVLi6MLtDl%252B33HFEb6IBqPtYYja4iviggVUwBuzHEyR7z9CI72w6%252FYyFxtMbJXWcSYOjQZanAInPWBvYFiAPjSckuqi5QE4yKjL4e9bC%252B6UEnS2TmvPpOn%252FgnUlYtp2xkOxmEXQmNesYLhIOGN%252FPbev4jvMDpx0vVTFGq3rnMfK%252FSvAtFX8%252B1tQl%252FYAzXunry4NgLrO%252Bd50p0jvU2w%252BTvxtHabE%7Campid%3APL_CLK%7Cclp%3A2332490&itmmeta=01JYDFBZ8J0R9QE64ZQ32K8ZST
+    - heading "Slim Carbon Fiber Bifold Wallet – RFID Blocking, Money Clip, Stylish & Secure" [level=3]
+    - text: New $25.59 previous price US $39.99 36% off + US $20.60 shipping
+  - button "Add Men Slim Credit Card Holder Purse Genuine Leather Wallet RFID Blocking ID Pocket to your watch list"
+  - link "Men Slim Credit Card Holder Purse Genuine Leather Wallet RFID Blocking ID Pocket New (Other) $10.99 Free shipping":
+    - /url: https://www.ebay.com/itm/134306806376?_trkparms=amclksrc%3DITM%26aid%3D1110006%26algo%3DHOMESPLICE.SIM%26ao%3D1%26asc%3D288102%26meid%3D17eb740d09f043429b310f82d4b5ecdf%26pid%3D101875%26rk%3D3%26rkt%3D4%26sd%3D405838590558%26itm%3D134306806376%26pmt%3D1%26noa%3D0%26pg%3D2332490%26algv%3DSimplAMLv11WebTrimmedWithMfgPhase2WithCassiniVisualRankerAndBertRecallWithPLXSizeFilterCPCAutoManual%26brand%3DUnbranded&_trksid=p2332490.c101875.m1851&itmprp=cksum%3A13430680637617eb740d09f043429b310f82d4b5ecdf%7Cenc%3AAQAKAAABUCAxYQCri4R8yBhKUZDgFiN8nr4Zmb2l1rDfrUWqcB3hcJPFX0hOzPuR7K4kUM35Mta9uPOEgW8tm6nkmEsssWme%252FA1HvgfDHVNMEFY%252FskG8k92B0ikUdNMu7YgEgamarrQ%252F35g%252FfiSvWrISC60%252BUP%252B3V4S%252FRugY1FTZ5hqy%252BpCsx6Lftp6XFAoQ83f1YlSjpD5elVdfW1kZDktjdNwYgJ1gKbZWlv5eFXergp1gexBCE3fBnrfCrmkrxjNmIcpnNYK2Q5Xv6w2S3qZ9eqtBHTIZ40cvpnxmI6Jm9kfxvXjRDXE4zQrl2znw5%252BapNydWOvHTTnh%252BEe3SFBWfu0aMG%252FgF%252FJsvUq3HIzmV0P844CAJMMG5yxBMxNM%252B2LR%252FDb1wz5RzUc%252B4hVBQzRwNZLbrzr6%252B62i%252B1GpMp8KXDemtENXHAiva4%252BtM334X394hLxfkiQ%253D%253D%7Campid%3APL_CLK%7Cclp%3A2332490&itmmeta=01JYDFBZ8N3S16PZK9ZBVCY2YF
+    - heading "Men Slim Credit Card Holder Purse Genuine Leather Wallet RFID Blocking ID Pocket" [level=3]
+    - text: New (Other) $10.99 Free shipping
+  - link "Mens RFID Blocking Leather Slim Wallet Money Clip Credit Card Slots Coin Holder New $36.99 previous price US $41.10 10% off Free shipping":
+    - /url: https://www.ebay.com/itm/185066990846?_trkparms=amclksrc%3DITM%26aid%3D1110006%26algo%3DHOMESPLICE.SIM%26ao%3D1%26asc%3D288102%26meid%3D17eb740d09f043429b310f82d4b5ecdf%26pid%3D101875%26rk%3D4%26rkt%3D4%26sd%3D405838590558%26itm%3D185066990846%26pmt%3D1%26noa%3D0%26pg%3D2332490%26algv%3DSimplAMLv11WebTrimmedWithMfgPhase2WithCassiniVisualRankerAndBertRecallWithPLXSizeFilterCPCAutoManual&_trksid=p2332490.c101875.m1851&itmprp=cksum%3A18506699084617eb740d09f043429b310f82d4b5ecdf%7Cenc%3AAQAKAAABQCAxYQCri4R8yBhKUZDgFiN8nr4Zmb2l1rDfrUWqcB3hcJPFX0hOzPuR7K4kUM35Mta9uPOEgW8tm6nkmEsssWme%252FA1HvgfDHVNMEFY%252FskG8k92B0ikUdNMu7YgEgamarrQ%252F35g%252FfiSvWrISC60%252BUP9LktI2SYeQ%252BYt8tiETU8RRNDqjzUlxnm%252BF22SZWzAfVzarHdhroJSeAJQc%252BKGRUceS463xSXcmwDONStHjujdRkLoEUNMbpWwwsXOGVO%252BHKpQWYiEz03p6k3up9C0JoOakGz6MNcND7lB31nw9F1pxnY7p2%252FTBTZ%252Fa7%252FF426PvBE8K7hBrXnqiVyAln33DldsVBaVOeaHdx01iu%252BDFsOydBJ%252BwPhbmdyAmi2OtrXBepiTmGjuzgsJR1d0bJXJgYT1s6w1WI1uooL54EY5la8zd%7Campid%3APL_CLK%7Cclp%3A2332490&itmmeta=01JYDFBZ8QQ4SH5H0JDNB9T8HF
+    - heading "Mens RFID Blocking Leather Slim Wallet Money Clip Credit Card Slots Coin Holder" [level=3]
+    - text: New $36.99 previous price US $41.10 10% off Free shipping
+  - heading "RFID Blocking Leather Slim Wallet ID Credit Card Holder Pouch" [level=1]
+  - link "POGAGE":
+    - /url: https://www.ebay.com/str/jm1sthome?_trksid=p4429486.m3561.l161211
+  - text: (7464)
+  - button "93.1% positive"
+  - link "Seller's other items":
+    - /url: https://www.ebay.com/str/jm1sthome?_trksid=p4429486.m3561.l170197
+  - link "Contact seller":
+    - /url: https://www.ebay.com/cnt/FindAnswers?ShowSellerFAQ=&item_id=405838590558&requested=anshop_llc&redirect=0&frm=284&rt=nc&ssPageName=PageSellerM2MFAQ_VI&_trksid=p4429486.m3561.l170198&_caprdt=1
+  - button "See more about this seller"
+  - text: "US $10.00 Condition: New with tags"
+  - button "More information - About this item condition":
+    - img "More information - About this item condition"
+  - 'button "Color: Leather Brown"'
+  - text: "Quantity:"
+  - textbox "10 available 2 sold": "1"
+  - text: 10 available 2 sold
+  - list:
+    - listitem:
+      - link "Buy It Now":
+        - /url: https://www.ebay.com/atc/binctr?item=405838590558&quantity=1&var=676142287656&fromPage=4429486&rev=2&fb=1&gch=1
+    - listitem:
+      - link "Add to cart":
+        - /url: https://cart.payments.ebay.com/sc/add?srt=01000a0000005095923a5565af70f8815bb0601749561b5f74a018125a9d9100b437952d9753ec2bf6abc8157c488763bb3157ee86be7f4bb2527615ba7f30848b7de606a880479ba23d6eff9fc47da5b0d9b34a0dd0f7&item=iid:405838590558,qty:1,vid:676142287656&ssPageName=CART:ATC
+    - listitem:
+      - link "Add to Watchlist":
+        - /url: https://signin.ebay.com/ws/eBayISAPI.dll?SignIn&ru=https%3A%2F%2Fwww.ebay.com%2Fitm%2F405838590558
+  - text: "Popular item. 2 have already sold. Holds up to 12 Cards. Generated with eBay.ai Shipping: US $20.14 eBay International Shipping"
+  - button "More information"
+  - text: .
+  - button "See details for shipping"
+  - text: "Located in: Fremont, CA, United States Save on combined shipping"
+  - button "More information on Combined Shipping. Opens a layer."
+  - text: "Import charges: This item may be subject to import charges and taxes on delivery"
+  - button "More information"
+  - text: "Delivery: Estimated between Fri, Aug 8 and Tue, Sep 2 to 10600"
+  - button "Information - Estimated delivery date - opens a layer"
+  - text: "Returns: 30 days returns. Buyer pays for return shipping. If you use an eBay shipping label, it will be deducted from your refund amount."
+  - button "See details - for more information about returns"
+  - text: "Payments:"
+  - img "PayPal"
+  - img "Google Pay"
+  - img "Visa"
+  - img "Master Card"
+  - img "Discover"
+  - img "Diners Club"
+  - heading "Shop with confidence" [level=2]
+  - text: Sent through eBay International Shipping. Shop worldwide with confidence including detailed tracking and hassle-free returns.
+  - button
+  - text: eBay Money Back Guarantee Get the item you ordered or your money back.
+  - link "Learn more eBay Money Back Guarantee - opens new window or tab":
+    - /url: https://www.ebay.com/ebay-money-back-guarantee/
+  - button "Help, opens dialogs":
+    - img
+  - img "loading"
+  - link "Report this item - opens in new window or tab":
+    - /url: https://ocswf.ebay.com/rti/compose?seller=anshop_llc&rt=nc&rmvHdr=true&_trksid=p4429486.m2548.l2566&items=405838590558
+  - tablist:
+    - tab "About this item" [selected]:
+      - button "About this item"
+  - tabpanel "About this item":
+    - text: Seller assumes all responsibility for this listing. eBay item number:405838590558 Last updated on Jun 17, 2025 06:53:41 PDT
+    - link "View all revisions View all revisions":
+      - /url: https://www.ebay.com/rvh/405838590558?rt=nc&_trksid=p4429486.m148105.l48144
+    - heading "Item specifics" [level=2]
+    - term: Condition
+    - definition:
+      - text: "New with tags: A brand-new, unused, and unworn item (including handmade items) in the original ..."
+      - button "Read more about the condition"
+    - term: Pattern
+    - definition: Solid
+    - term: MPN
+    - definition: Does Not Apply
+    - term: Material
+    - definition: Leather
+    - term: Year Manufactured
+    - definition: 2020-2029
+    - term: Fabric Type
+    - definition: Microfiber
+    - term: Brand
+    - definition: Anshop
+    - term: Personalize
+    - definition: "No"
+    - term: Department
+    - definition: Men
+    - term: Type
+    - definition: Card Wallet
+    - term: Style
+    - definition: Vintage card holder
+    - term: Theme
+    - definition: Card Holder
+    - term: Features
+    - definition: Credit Card
+    - term: Handmade
+    - definition: "No"
+    - text: Category
+    - navigation "breadcrumb":
+      - heading "breadcrumb" [level=2]
+      - list:
+        - listitem:
+          - link "Clothing, Shoes & Accessories":
+            - /url: https://www.ebay.com/b/Clothing-Shoes-Accessories/11450/bn_1852545
+        - listitem:
+          - link "Men":
+            - /url: https://www.ebay.com/b/Mens-Clothing-Shoes-Accessories/260012/bn_7116419459
+        - listitem:
+          - link "Men's Accessories":
+            - /url: https://www.ebay.com/b/Mens-Accessories/4250/bn_1642245
+        - listitem:
+          - link "Wallets":
+            - /url: https://www.ebay.com/b/Mens-Wallets/2996/bn_739214
+    - heading "Item description from the seller" [level=2]
+    - iframe
+  - text: About this seller
+  - heading "POGAGE" [level=2]:
+    - link "POGAGE":
+      - /url: https://www.ebay.com/str/jm1sthome?_trksid=p4429486.m145687.l149267
+  - heading "93.1% positive feedback•48K items sold" [level=4]
+  - text: Joined Oct 2020 Usually responds within 24 hours
+  - link "Visit store":
+    - /url: https://www.ebay.com/str/jm1sthome?_trksid=p4429486.m145687.l149086
+  - link "Contact":
+    - /url: https://www.ebay.com/cnt/FindAnswers?ShowSellerFAQ=&item_id=405838590558&requested=anshop_llc&redirect=0&frm=284&rt=nc&ssPageName=PageSellerM2MFAQ_VI&_trksid=p4429486.m145687.l149087&_caprdt=1
+  - button "Save seller - Save this seller anshop_llc": Save seller
+  - heading "Detailed seller ratings" [level=3]
+  - text: Average for the last 12 months Accurate description 4.7 Reasonable shipping cost 5.0 Shipping speed 4.7 Communication 4.9
+  - heading "Popular categories from this store" [level=3]
+  - link "See all categories":
+    - /url: https://www.ebay.com/sch/i.html?_dkr=1&iconV2Request=true&_blrs=recall_filtering&_ssn=anshop_llc&store_cat=0&store_name=jm1sthome&_oac=1
+  - link "Wallet":
+    - /url: https://www.ebay.com/str/jm1sthome/Wallet/_i.html?store_cat=20755820015
+  - link "Home Devices":
+    - /url: https://www.ebay.com/str/jm1sthome/Home-Devices/_i.html?store_cat=21391453015
+  - link "Phone Accessories":
+    - /url: https://www.ebay.com/str/jm1sthome/Phone-Accessories/_i.html?store_cat=21987299015
+  - link "Smart Watch Accessories":
+    - /url: https://www.ebay.com/str/jm1sthome/Smart-Watch-Accessories/_i.html?store_cat=21987300015
+  - link "Other":
+    - /url: https://www.ebay.com/str/jm1sthome/Other/_i.html?store_cat=1
+  - heading "Seller feedback (9,686)" [level=2]
+  - 'button "Filter: All ratings"'
+  - list:
+    - listitem:
+      - img "Positive feedback rating"
+      - text: (***e (976) - Feedback left by buyer. Past 6 months Verified purchase Permit me to say that this is a superb seller of the highest standard. Excellent communication, quick dispatch, good value, well packed and is exactly as the description. Thank you!
+      - link "Unisex Weight Light Baseball Cap Casual Adjustable Cap Hat (#405569850371)":
+        - /url: https://www.ebay.com/itm/405569850371
+    - listitem:
+      - img "Positive feedback rating"
+      - text: s***a (1714) - Feedback left by buyer. Past month Verified purchase The item arrived on time, securely packaged, and in perfect condition as was described. Excellent deal at very good price. Thank you for a wonderful experience! Highly recommended seller.
+      - link "For Apple iPhone 13 14 15 16 Pro Max Ring Tempered Glass Camera Lens Protector (#405530874119)":
+        - /url: https://www.ebay.com/itm/405530874119
+    - listitem:
+      - img "Positive feedback rating"
+      - text: 1**** (737) - Feedback left by buyer. Past 6 months Verified purchase To be fair, the prices are very affordable and this seller does communicate, but the shipping speed is way to slow! There needs to be more urgency placed on shipping. This seller gets ⭐️⭐️⭐️ 4PCS Tempered Glass Screen Protector For Samsung Galaxy S21 S22 S23 S24 FE Ultra (#405663058165)
+    - listitem:
+      - img "Positive feedback rating"
+      - text: h***h (467) - Feedback left by buyer. Past month Verified purchase My order got lost in the mail. Contacted seller and they refunded my money. Sad that they didn't get here, but not sellers fault. Good seller and very responsive.
+      - link "For Galaxy S23 S24 Plus Ultra Tempered Glass Camera Lens Protector Metal Ring (#405566908096)":
+        - /url: https://www.ebay.com/itm/405566908096
+    - listitem:
+      - img "Positive feedback rating"
+      - text: a***j (608) - Feedback left by buyer. Past month Verified purchase Nice quality and design. They're very sporty and look just like the picture. Brand new in package as described. Good price. Seller communication was excellent! Fast shipping. I'm very pleased with my purchase.
+      - button "Item photo(s) from verified buyer":
+        - img "Item photo(s) from verified buyer"
+      - link "2 Pairs Compression Socks Running Football Soccer Stockings Men Women Sport Sock (#405424144361)":
+        - /url: https://www.ebay.com/itm/405424144361
+    - listitem:
+      - img "Positive feedback rating"
+      - text: e***c (279) - Feedback left by buyer. Past month Verified purchase Super fast shipping the packaging was well prepared product as described great value, most definitely will buy again from this seller A+
+      - link "For Apple iPhone 13 14 15 Pro Max Ring Tempered Glass Camera Lens Protector (#405427296012)":
+        - /url: https://www.ebay.com/itm/405427296012
+    - listitem:
+      - img "Positive feedback rating"
+      - text: s***t (1064) - Feedback left by buyer. Past 6 months Verified purchase Super fast shipping. The packaging was standard mail packaging. The product was great value and the product was just as described with no signs of previous usage. Good quality and appearance. Thank you. 2PCS Privacy Clear Tempered Glass Screen Protector for iPhone 16 15 14 Pro Max (#405427244743)
+    - listitem:
+      - img "Positive feedback rating"
+      - text: 0***p (329) - Feedback left by buyer. Past 6 months Verified purchase The seller is amazing. I kept this item even though I am not a 100% satisfied. The waste band in the picture showed a solid black wast band. However what I received was a dark gray waste band on the inside. Item waste band on is not as discarded or pictured 100% accurate.
+      - button "Item photo(s) from verified buyer":
+        - img "Item photo(s) from verified buyer"
+      - link "5 PACK Men's Boxer Briefs Soft Silk Elastic Comfort Flex Waist Underwear S-4XL (#405424243103)":
+        - /url: https://www.ebay.com/itm/405424243103
+  - link "See all feedback":
+    - /url: https://www.ebay.com/fdbk/mweb_profile?fdbkType=FeedbackReceivedAsSeller&item_id=405838590558&username=anshop_llc&filter=feedback_page%3ARECEIVED_AS_SELLER&sort=RELEVANCEV2
+  - navigation "Quick Links":
+    - link "Back to previous page":
+      - /url: https://www.ebay.com/splashui/challenge?ap=1&appName=orch&ru=https%3A%2F%2Fwww.ebay.com%2Fitm%2F405838590558&iid=f86d33db-3613-4db9-a653-4b1c2360b00c&iim=mMTEyLjR&iia=VpEzNS43hQ&iiz=mAANC4xMjM*PTS
+    - button "Return to top"
+  - heading "More to explore :" [level=2]
+  - list:
+    - listitem:
+      - link "Leather RFID Blocking Wallets for Men,":
+        - /url: https://www.ebay.com/b/Leather-RFID-Blocking-Wallets-for-Men/2996/bn_57024755
+    - listitem:
+      - link "Leather Wallet Wallets for Women with RFID Blocking,":
+        - /url: https://www.ebay.com/b/Leather-Wallet-Wallets-for-Women-with-RFID-Blocking/45258/bn_96371270
+    - listitem:
+      - link "RFID Blocking Leather Wallets for Women,":
+        - /url: https://www.ebay.com/b/RFID-Blocking-Leather-Wallets-for-Women/45258/bn_56908003
+    - listitem:
+      - link "Card Wallet Women's RFID Blocking,":
+        - /url: https://www.ebay.com/b/Card-Wallet-Womens-RFID-Blocking/45258/bn_7117136986
+    - listitem:
+      - link "Faux Leather Wallets for Men with RFID Blocking,":
+        - /url: https://www.ebay.com/b/Faux-Leather-Wallets-for-Men-with-RFID-Blocking/2996/bn_64897661
+    - listitem:
+      - link "RFID Blocking Wallets for Men,":
+        - /url: https://www.ebay.com/b/RFID-Blocking-Wallets-for-Men/2996/bn_36843185
+    - listitem:
+      - link "Leather Credit Card Wallets for Men,":
+        - /url: https://www.ebay.com/b/Leather-Credit-Card-Wallets-for-Men/2996/bn_4738609
+    - listitem:
+      - link "Columbia Men's RFID Blocking Wallets,":
+        - /url: https://www.ebay.com/b/Columbia-Mens-RFID-Blocking-Wallets/2996/bn_64898961
+    - listitem:
+      - link "Aluminum RFID Blocking Wallets for Men,":
+        - /url: https://www.ebay.com/b/Aluminum-RFID-Blocking-Wallets-for-Men/2996/bn_64897614
+    - listitem:
+      - link "Coach Women's Leather Wallets with Credit Card":
+        - /url: https://www.ebay.com/b/Coach-Womens-Leather-Wallets-with-Credit-Card/45258/bn_56908106
+  - heading "Shop the Latest Sneakers" [level=2]
+  - heading "Best Sellers" [level=3]
+  - list:
+    - listitem:
+      - link "Nike Dunk Low Retro White Black 2021":
+        - /url: https://www.ebay.com/b/Nike-Dunk-Low-Retro-White-Black-2021/15709/bn_7118514165
+    - listitem:
+      - link "Jordan 1 KO Syracuse 2022":
+        - /url: https://www.ebay.com/b/Jordan-1-KO-Syracuse-2022/15709/bn_7118563165
+    - listitem:
+      - link "Yeezy Boost 700 V1 Mauve":
+        - /url: https://www.ebay.com/b/Yeezy-Boost-700-V1-Mauve/15709/bn_7117754158
+    - listitem:
+      - link "Jordan 4 SE Black Canvas":
+        - /url: https://www.ebay.com/b/Jordan-4-SE-Black-Canvas/15709/bn_7118593254
+    - listitem:
+      - link "Jordan 1 Retro Low Fragment Design x Travis Scott":
+        - /url: https://www.ebay.com/b/Jordan-1-Retro-Low-Fragment-Design-x-Travis-Scott/15709/bn_7117819170
+  - heading "Recent Releases" [level=3]
+  - list:
+    - listitem:
+      - link "A Ma Maniére x Air Jordan 5 Retro OG Violet Ore":
+        - /url: https://www.ebay.com/b/A-Ma-Maniere-x-Air-Jordan-5-Retro-OG-Violet-Ore/15709/bn_7124564288
+    - listitem:
+      - link "Jordan 3 Retro OG Rare":
+        - /url: https://www.ebay.com/b/Jordan-3-Retro-OG-Rare/15709/bn_7124560380
+    - listitem:
+      - link "Jordan 4 Retro OG 2025 White Cement":
+        - /url: https://www.ebay.com/b/Jordan-4-Retro-OG-2025-White-Cement/15709/bn_7124557223
+    - listitem:
+      - link "Nike Lil Yachty x Air Force 1 Low Concrete Boys - Lucky Green":
+        - /url: https://www.ebay.com/b/Nike-Lil-Yachty-x-Air-Force-1-Low-Concrete-Boys-Lucky-Green/15709/bn_7124561379
+    - listitem:
+      - link "Jordan Spizike Low OG":
+        - /url: https://www.ebay.com/b/Jordan-Spizike-Low-OG/15709/bn_7124561242
+  - heading "Air Jordan" [level=3]
+  - list:
+    - listitem:
+      - link "Jordan 1":
+        - /url: https://www.ebay.com/b/Jordan-1/15709/bn_98034994
+    - listitem:
+      - link "Jordan 4":
+        - /url: https://www.ebay.com/b/Jordan-4/15709/bn_98034454
+    - listitem:
+      - link "Jordan 11":
+        - /url: https://www.ebay.com/b/Jordan-11/15709/bn_98035912
+    - listitem:
+      - link "Jordan 12":
+        - /url: https://www.ebay.com/b/Jordan-12/15709/bn_98034889
+    - listitem:
+      - link "Jordan 13":
+        - /url: https://www.ebay.com/b/Jordan-13/15709/bn_98035446
+  - heading "Yeezy" [level=3]
+  - list:
+    - listitem:
+      - link "Yeezy Slide":
+        - /url: https://www.ebay.com/b/adidas-Yeezy-Slide/15709/bn_7118671215
+    - listitem:
+      - link "Yeezy Foam RNNR":
+        - /url: https://www.ebay.com/b/Yeezy-Foam-RNNR/15709/bn_7117868160
+    - listitem:
+      - link "Yeezy 700":
+        - /url: https://www.ebay.com/b/Yeezy-Boost-700/15709/bn_98035820
+    - listitem:
+      - link "Yeezy 350":
+        - /url: https://www.ebay.com/b/Yeezy-Boost-350/15709/bn_98035262
+    - listitem:
+      - link "Yeezy 500":
+        - /url: https://www.ebay.com/b/Yeezy-500/15709/bn_98035034
+  - heading "Top Brands" [level=3]
+  - list:
+    - listitem:
+      - link "New Balance":
+        - /url: https://www.ebay.com/b/New-Balance-Sneakers-for-Men/15709/bn_58747
+    - listitem:
+      - link "Gucci":
+        - /url: https://www.ebay.com/b/Gucci-Casual-Shoes-for-Men/24087/bn_60133
+    - listitem:
+      - link "Vans":
+        - /url: https://www.ebay.com/b/VANS-Sneakers-for-Men/15709/bn_59307
+    - listitem:
+      - link "Skechers":
+        - /url: https://www.ebay.com/b/Skechers-Sneakers-for-Men/15709/bn_59133
+    - listitem:
+      - link "Reebok":
+        - /url: https://www.ebay.com/b/Reebok-Sneakers-for-Men/15709/bn_59027
+  - heading "Related Searches" [level=2]
+  - list:
+    - listitem:
+      - link "Rfid Slim Wallet":
+        - /url: https://www.ebay.com/shop/rfid-slim-wallet?_nkw=rfid+slim+wallet
+    - listitem:
+      - link "Rfid Wallet":
+        - /url: https://www.ebay.com/shop/rfid-wallet?_nkw=rfid+wallet
+    - listitem:
+      - link "Slim Leather Id Wallet":
+        - /url: https://www.ebay.com/shop/slim-leather-id-wallet?_nkw=slim+leather+id+wallet
+    - listitem:
+      - link "Rfid Card Holder":
+        - /url: https://www.ebay.com/shop/rfid-card-holder?_nkw=rfid+card+holder
+    - listitem:
+      - link "Rfid Zipper Wallet":
+        - /url: https://www.ebay.com/shop/rfid-zipper-wallet?_nkw=rfid+zipper+wallet
+    - listitem:
+      - link "Rfid Card Holder Women":
+        - /url: https://www.ebay.com/shop/rfid-card-holder-women?_nkw=rfid+card+holder+women
+    - listitem:
+      - link "Rfid Blocking Pouch":
+        - /url: https://www.ebay.com/shop/rfid-blocking-pouch?_nkw=rfid+blocking+pouch
+    - listitem:
+      - link "Wallet Rfid Womens":
+        - /url: https://www.ebay.com/shop/wallet-rfid-womens?_nkw=wallet+rfid+womens
+    - listitem:
+      - link "Rfid Credit Card Sleeves":
+        - /url: https://www.ebay.com/shop/rfid-credit-card-sleeves?_nkw=rfid+credit+card+sleeves
+    - listitem:
+      - link "Credit Card Holder Wallet":
+        - /url: https://www.ebay.com/shop/credit-card-holder-wallet?_nkw=credit+card+holder+wallet
+    - listitem:
+      - link "Leather Card Holder Slim":
+        - /url: https://www.ebay.com/shop/leather-card-holder-slim?_nkw=leather+card+holder+slim
+    - listitem:
+      - link "Rfid Wallets Women's":
+        - /url: https://www.ebay.com/shop/rfid-wallets-womens?_nkw=rfid+wallets+women%27s
+    - listitem:
+      - link "Small Rfid Wallet Womens":
+        - /url: https://www.ebay.com/shop/small-rfid-wallet-womens?_nkw=small+rfid+wallet+womens
+    - listitem:
+      - link "Front Pocket Wallet Rfid":
+        - /url: https://www.ebay.com/shop/front-pocket-wallet-rfid?_nkw=front+pocket+wallet+rfid
+    - listitem:
+      - link "Leather Slim Card Wallet":
+        - /url: https://www.ebay.com/shop/leather-slim-card-wallet?_nkw=leather+slim+card+wallet
+- contentinfo:
+  - list:
+    - listitem:
+      - link "About eBay":
+        - /url: https://www.ebayinc.com
+    - listitem:
+      - link "Announcements":
+        - /url: https://community.ebay.com/t5/Announcements/bg-p/Announcements
+    - listitem:
+      - link "Community":
+        - /url: https://community.ebay.com
+    - listitem:
+      - link "Security Center":
+        - /url: https://pages.ebay.com/securitycenter/index.html
+    - listitem:
+      - link "Seller Center":
+        - /url: https://www.ebay.com/sellercenter
+    - listitem:
+      - link "Policies":
+        - /url: https://www.ebay.com/help/policies/default/ebays-rules-policies?id=4205
+    - listitem:
+      - link "Affiliates":
+        - /url: https://partnernetwork.ebay.com/
+    - listitem:
+      - link "Help & Contact":
+        - /url: https://www.ebay.com/help/home
+    - listitem:
+      - link "Site Map":
+        - /url: https://pages.ebay.com/sitemap.html
+  - text: Copyright © 1995-2025 eBay Inc. All Rights Reserved.
+  - link "Accessibility":
+    - /url: https://www.ebayinc.com/accessibility/
+  - text: ","
+  - link "User Agreement":
+    - /url: https://www.ebay.com/help/policies/member-behaviour-policies/user-agreement?id=4259
+  - text: ","
+  - link "Privacy":
+    - /url: https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260
+  - text: ","
+  - link "Consumer Health Data":
+    - /url: https://www.ebayinc.com/company/privacy-center/privacy-notice/consumer-health-data-privacy-policy/
+  - text: ","
+  - link "Payments Terms of Use":
+    - /url: https://pages.ebay.com/payment/2.0/terms.html
+  - text: ","
+  - link "Cookies":
+    - /url: https://www.ebay.com/help/policies/member-behaviour-policies/ebay-cookie-notice?id=4267
+  - text: ","
+  - link "CA Privacy Notice":
+    - /url: https://www.ebayinc.com/company/privacy-center/privacy-notice/state-privacy-disclosures/#california
+  - text: ","
+  - link "Your Privacy Choices":
+    - /url: https://www.ebay.com/adchoice/ccpa
+  - text: and
+  - link "AdChoice":
+    - /url: https://www.ebay.com/adchoice
+- img
+```
